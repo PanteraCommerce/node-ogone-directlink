@@ -10,9 +10,6 @@
     "scripts": {
         "test": "nodeunit test/"
     },
-    "engines": {
-        "node": "~0.6.6"
-    },
     "dependencies": {
         "xml2js": "0.x.x",
         "sugar": "1.x.x",
